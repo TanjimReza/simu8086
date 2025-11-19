@@ -1,0 +1,5 @@
+{
+  "name": "Pro 8086 Stack Sim",
+  "description": "Professional grade Intel 8086 simulator for visualizing Stack mechanics, memory, and registers.",
+  "requestFramePermissions": []
+}

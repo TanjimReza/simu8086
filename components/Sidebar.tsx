@@ -59,9 +59,9 @@ const Sidebar: React.FC<SidebarProps> = ({ onLoadPreset, onSetStackSize, current
             <div className="p-6 border-b border-gray-100">
                 <div className="flex items-center gap-2 text-brand-700 font-bold text-xl">
                     <Box className="fill-brand-100" />
-                    <span>StackSim</span>
+                    <span>Simu8086</span>
                 </div>
-                <p className="text-xs text-gray-400 mt-1">Intel 8086 Lab Visualizer</p>
+                <p className="text-xs text-gray-400 mt-1">Intel 8086 Visualizer</p>
             </div>
 
             {/* Tabs */}

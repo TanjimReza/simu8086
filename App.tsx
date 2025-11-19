@@ -95,7 +95,7 @@ function App() {
 
       {/* Mobile Header */}
       <div className="lg:hidden fixed top-0 left-0 right-0 h-14 bg-white border-b border-gray-200 flex items-center px-4 z-20 justify-between">
-          <span className="font-bold text-brand-700">StackSim</span>
+          <span className="font-bold text-brand-700">Simu8086</span>
           <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="p-2 text-gray-600">
               <Menu />
           </button>
